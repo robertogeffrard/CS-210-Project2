@@ -18,7 +18,7 @@ The most challenging part of the project was implementing the compound interest 
 
 Transferable Skills
 
-This project helped me further develop skills such as Object-Oriented Programming (OOP), Financial Calculations, and Input Validation and Error Handling
+This project helped me further develop skills such as Object-Oriented Programming (OOP), Financial Calculations, and Input Validation and Error Handling.
 
 How I Made the Program Maintainable, Readable, and Adaptable
 
